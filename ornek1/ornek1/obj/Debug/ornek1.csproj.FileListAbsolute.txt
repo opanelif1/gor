@@ -1,0 +1,6 @@
+C:\Users\lenovo\Documents\GitHub\ornek1\ornek1\bin\Debug\ornek1.exe.config
+C:\Users\lenovo\Documents\GitHub\ornek1\ornek1\bin\Debug\ornek1.exe
+C:\Users\lenovo\Documents\GitHub\ornek1\ornek1\bin\Debug\ornek1.pdb
+C:\Users\lenovo\Documents\GitHub\ornek1\ornek1\obj\Debug\ornek1.csprojAssemblyReference.cache
+C:\Users\lenovo\Documents\GitHub\ornek1\ornek1\obj\Debug\ornek1.exe
+C:\Users\lenovo\Documents\GitHub\ornek1\ornek1\obj\Debug\ornek1.pdb
